@@ -36,9 +36,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://samuelorion.github.io/methods_paper/" />
   <meta name="citation_pdf_url" content="https://samuelorion.github.io/methods_paper/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://samuelorion.github.io/methods_paper/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://samuelorion.github.io/methods_paper/v/f5c345d875b51502722010f05e69f888c0de1777/" />
-  <meta name="manubot_html_url_versioned" content="https://samuelorion.github.io/methods_paper/v/f5c345d875b51502722010f05e69f888c0de1777/" />
-  <meta name="manubot_pdf_url_versioned" content="https://samuelorion.github.io/methods_paper/v/f5c345d875b51502722010f05e69f888c0de1777/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://samuelorion.github.io/methods_paper/v/418cb28ac35f46c086824001054a2f8f2c1140de/" />
+  <meta name="manubot_html_url_versioned" content="https://samuelorion.github.io/methods_paper/v/418cb28ac35f46c086824001054a2f8f2c1140de/" />
+  <meta name="manubot_pdf_url_versioned" content="https://samuelorion.github.io/methods_paper/v/418cb28ac35f46c086824001054a2f8f2c1140de/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -60,9 +60,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://samuelorion.github.io/methods_paper/v/f5c345d875b51502722010f05e69f888c0de1777/))
+([permalink](https://samuelorion.github.io/methods_paper/v/418cb28ac35f46c086824001054a2f8f2c1140de/))
 was automatically generated
-from [samuelorion/methods_paper@f5c345d](https://github.com/samuelorion/methods_paper/tree/f5c345d875b51502722010f05e69f888c0de1777)
+from [samuelorion/methods_paper@418cb28](https://github.com/samuelorion/methods_paper/tree/418cb28ac35f46c086824001054a2f8f2c1140de)
 on September 10, 2021.
 </em></small>
 
@@ -117,6 +117,7 @@ In addition, using these formats for the sharing of methods may help instil a cu
 
 In this work we describe unground-breaking, simple to use and apply methods, that allow wet-lab biologist / neuroscientists to quantify the number of projecting neurons cultured in multi-well plates. 
 
+New line. 
 
 
 
