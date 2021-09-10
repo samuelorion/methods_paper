@@ -65,9 +65,9 @@
   <meta name="citation_fulltext_html_url" content="https://samuelorion.github.io/methods_paper/" />
   <meta name="citation_pdf_url" content="https://samuelorion.github.io/methods_paper/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://samuelorion.github.io/methods_paper/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://samuelorion.github.io/methods_paper/v/12b5e2f7dbfbbddbe6996e5edfbeaeda3f08c843/" />
-  <meta name="manubot_html_url_versioned" content="https://samuelorion.github.io/methods_paper/v/12b5e2f7dbfbbddbe6996e5edfbeaeda3f08c843/" />
-  <meta name="manubot_pdf_url_versioned" content="https://samuelorion.github.io/methods_paper/v/12b5e2f7dbfbbddbe6996e5edfbeaeda3f08c843/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://samuelorion.github.io/methods_paper/v/650ad297530eb87148c0d466f25be4d15676eb5c/" />
+  <meta name="manubot_html_url_versioned" content="https://samuelorion.github.io/methods_paper/v/650ad297530eb87148c0d466f25be4d15676eb5c/" />
+  <meta name="manubot_pdf_url_versioned" content="https://samuelorion.github.io/methods_paper/v/650ad297530eb87148c0d466f25be4d15676eb5c/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -81,9 +81,9 @@
 </header>
 <p><small><em>
 This manuscript
-(<a href="https://samuelorion.github.io/methods_paper/v/12b5e2f7dbfbbddbe6996e5edfbeaeda3f08c843/">permalink</a>)
+(<a href="https://samuelorion.github.io/methods_paper/v/650ad297530eb87148c0d466f25be4d15676eb5c/">permalink</a>)
 was automatically generated
-from <a href="https://github.com/samuelorion/methods_paper/tree/12b5e2f7dbfbbddbe6996e5edfbeaeda3f08c843">samuelorion/methods_paper@12b5e2f</a>
+from <a href="https://github.com/samuelorion/methods_paper/tree/650ad297530eb87148c0d466f25be4d15676eb5c">samuelorion/methods_paper@650ad29</a>
 on September 10, 2021.
 </em></small></p>
 <h2 id="authors">Authors</h2>
@@ -104,26 +104,24 @@ Department of Neuroscience, Univerisité de Montréal
 <h2 id="introduction">Introduction</h2>
 <p>The quantification of cell numbers in <em>in vitro</em> and <em>in vivo</em> samples is a foundational variable in experimental biology.
 However, manually counting cells is a massively laborious and insipid task, often tasked to junior scientists.
-Furthermore, manually counting cells is a massively laborious and insipid task, often tasked to junior scientists. Classically, the task will be achieved by either sitting at the microscope, or computer – with a counting-clicker (or equivalent) – for days, if not weeks, or months.
+Furthermore, manually counting cells is a massively laborious and insipid task, often tasked to junior scientists. Classically, the task will be achieved either by sitting at the microscope, or computer – with a counting-clicker (or equivalent) – for days, if not weeks and months.
 With the advent of user-friendly automated imaging systems, relatively high throughput experiments can be imaged for cell number quantification by most wet-lab scientists.
-With relatively little computational nous, most biologists can use software such as ImageJ <span class="citation" data-cites="uEiJmulI">[<a href="#ref-uEiJmulI" role="doc-biblioref">1</a>]</span>, CellProfiller <span class="citation" data-cites="mY0STSMe">[<a href="#ref-mY0STSMe" role="doc-biblioref">2</a>]</span>(and other similar projects) to achieve accurate quantifications of cells that have simple morphological features (such as stained nuclei).
-However, for neurons – and especially projecting neurons – this becomes a significant challenge. Not only do these types of cells have more complex morphologies, but these types of cells have received less attention from software developers / computerphiles (for the lack of a better term).</p>
+With relatively little computational nous, most biologists can use software such as ImageJ <span class="citation" data-cites="uEiJmulI">[<a href="#ref-uEiJmulI" role="doc-biblioref">1</a>]</span>, CellProfiller <span class="citation" data-cites="mY0STSMe">[<a href="#ref-mY0STSMe" role="doc-biblioref">2</a>]</span> (and other similar projects) to achieve accurate quantifications of cells that have simple morphological features (such as stained nuclei).
+However, for neurons – and especially projecting neurons – this becomes a significant challenge. Not only do these types of cells have more complex morphologies, but these types of cells have received less attention from developers.</p>
 <h2 id="the-problem">The problem</h2>
 <p>The current literature and documentation for methods for quantifying cell numbers are either limited to imaging segmentation tasks that are too simple, or describing methods that require one to be computationally-literate (and unperturbed by extensive mathematical formula within publications).
-In the context of in vitro experiments, the quantification of number of nuclei can be achieved with very simple segmentation techniques.
+In the context of <em>in vitro</em> experiments, the quantification of number of nuclei can be achieved with very simple segmentation techniques.
 However, when working with tissue samples, the task becomes significantly more complex.
-Open competitons have allowed the open-sourcing of machine learning and data science practitioners to apply their methods to these tasks, and have achieved very high accuracy in nuclei segmentation challenges<span class="citation" data-cites="16UMgkAyA">[<a href="#ref-16UMgkAyA" role="doc-biblioref">3</a>]</span>.
+Open competitons have allowed machine learning and data science practitioners to apply their methods to these tasks, and have achieved very high accuracy in nuclei segmentation challenges<span class="citation" data-cites="16UMgkAyA">[<a href="#ref-16UMgkAyA" role="doc-biblioref">3</a>]</span>.
 However, wet-lab biologist struggle to use these specialized methods (one reason being, perhaps, due to an undervaluation of computational skills in most biological curricula).</p>
 <p>For the more difficult task of automating the counting of neurons, multiple authors have described the application of state-of-the-art methods to achieve accurate quantifications <span class="citation" data-cites="BeobZ3J6">[<a href="#ref-SpBuR17r" role="doc-biblioref">5</a>]</span>.
 Indeed, authors have also attempted to create deep learning solutions to the problem of counting neurons, that can be used as a plug-in in ImageJ.
-Albeit a valiant effort to “… present an ImageJ plugin that enables non-machine-learning experts to analyze their data with U-Net on either a local computer or a remote server/cloud service” <span class="citation" data-cites="doi">[<a href="#ref-doi" role="doc-biblioref"><strong>doi?</strong></a> 10.1038/s41592-018-0261-2]</span>, the implementation of such methods is still challenging for many biologists, and for in vitro contexts, unnecessarily performant.</p>
+Albeit a valiant effort to “… present an ImageJ plugin that enables non-machine-learning experts to analyze their data with U-Net on either a local computer or a remote server/cloud service” <span class="citation" data-cites="bZ0PnvBG">[<a href="#ref-bZ0PnvBG" role="doc-biblioref">6</a>]</span>, the implementation of such methods is still challenging for many biologists, and for in vitro contexts, unnecessarily performant.</p>
 <h2 id="a-solution">A solution</h2>
-<p>An underserved aspect of many of these more advanced methods is the pedagogical component.
-To implement many of the methods – which a junior scientists will likely find themselves doing on multiple occasions for their own use-case – specific domain expertise is required in the computational realm (this is especially significant when one considers that most biologists / neuroscientists will be unfamiliar (as was this author) of the simple term iterator <span class="citation" data-cites="FNBYN58a">[<a href="#ref-FNBYN58a" role="doc-biblioref">6</a>]</span>.
-One solution is for these methods and protocols to be contained within notebook interfaces such as <span class="citation" data-cites="bKYAY1Ed">[<a href="#ref-bKYAY1Ed" role="doc-biblioref">7</a>]</span>. Not only can documentation be included with examples, but the methods can also be executed within the browser, and in systems where there is zero configuration required.
-In addition, using these formats for the sharing of methods may help instil a culture of open documentation and analysis.</p>
-<p>In this work we describe unground-breaking, simple to use and apply methods, that allow wet-lab biologist / neuroscientists to quantify the number of projecting neurons cultured in multi-well plates.</p>
-<p>New line.</p>
+<p>Many of these more advanced methods lack a substantial pedagogical component.
+To implement many of the methods – which a junior scientists will likely find themselves doing on multiple occasions for their own use-case – specific domain expertise is required in the computational realm (this is especially significant when one considers that most biologists / neuroscientists will be unfamiliar (as was this author) of the simple term iterator <span class="citation" data-cites="FNBYN58a">[<a href="#ref-FNBYN58a" role="doc-biblioref">7</a>]</span>.
+One solution is for these methods and protocols to be contained within notebook interfaces such as Project Jupyter <span class="citation" data-cites="bKYAY1Ed">[<a href="#ref-bKYAY1Ed" role="doc-biblioref">8</a>]</span>. Not only can documentation be included with examples, but the methods can also be executed within a browser, and in systems where there is zero configuration required.
+In addition, using these formats for the sharing of methods may help instil a culture of open documentation and analysis. In this work we describe unground-breaking, simple to use and apply methods, that allow wet-lab biologist / neuroscientists to quantify the number of projecting neurons cultured in multi-well plates.</p>
 <h2 class="page_break_before" id="references">References</h2>
 <!-- Explicitly insert bibliography here -->
 <div id="refs" class="references csl-bib-body" role="doc-bibliography">
@@ -142,11 +140,14 @@ In addition, using these formats for the sharing of methods may help instil a cu
 <div id="ref-SpBuR17r" class="csl-entry" role="doc-biblioentry">
 <div class="csl-left-margin">5. </div><div class="csl-right-inline"><strong>A deep learning algorithm for 3D cell detection in whole mouse brain image datasets</strong> <div class="csl-block">Adam L Tyson, Charly V Rousseau, Christian J Niedworok, Sepiedeh Keshavarzi, Chryssanthi Tsitoura, Lee Cossell, Molly Strom, Troy W Margrie</div> <em>Cold Spring Harbor Laboratory</em> (2021-03-04) <a href="https://doi.org/gmrwnf">https://doi.org/gmrwnf</a> <div class="csl-block">DOI: <a href="https://doi.org/10.1101/2020.10.21.348771">10.1101/2020.10.21.348771</a></div></div>
 </div>
+<div id="ref-bZ0PnvBG" class="csl-entry" role="doc-biblioentry">
+<div class="csl-left-margin">6. </div><div class="csl-right-inline"><strong>U-Net: deep learning for cell counting, detection, and morphometry</strong> <div class="csl-block">Thorsten Falk, Dominic Mai, Robert Bensch, Özgün Çiçek, Ahmed Abdulkadir, Yassine Marrakchi, Anton Böhm, Jan Deubner, Zoe Jäckel, Katharina Seiwald, … Olaf Ronneberger</div> <em>Nature Methods</em> (2018-12-17) <a href="https://doi.org/gfrfxw">https://doi.org/gfrfxw</a> <div class="csl-block">DOI: <a href="https://doi.org/10.1038/s41592-018-0261-2">10.1038/s41592-018-0261-2</a> · PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/30559429">30559429</a></div></div>
+</div>
 <div id="ref-FNBYN58a" class="csl-entry" role="doc-biblioentry">
-<div class="csl-left-margin">6. </div><div class="csl-right-inline"><strong>Iterator - Wikipedia</strong> <a href="https://en.wikipedia.org/wiki/Iterator">https://en.wikipedia.org/wiki/Iterator</a></div>
+<div class="csl-left-margin">7. </div><div class="csl-right-inline"><strong>Iterator - Wikipedia</strong> <a href="https://en.wikipedia.org/wiki/Iterator">https://en.wikipedia.org/wiki/Iterator</a></div>
 </div>
 <div id="ref-bKYAY1Ed" class="csl-entry" role="doc-biblioentry">
-<div class="csl-left-margin">7. </div><div class="csl-right-inline"><strong>Project Jupyter</strong> <a href="https://www.jupyter.org">https://www.jupyter.org</a></div>
+<div class="csl-left-margin">8. </div><div class="csl-right-inline"><strong>Project Jupyter</strong> <a href="https://www.jupyter.org">https://www.jupyter.org</a></div>
 </div>
 </div>
 <!-- default theme -->
