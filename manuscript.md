@@ -1,5 +1,5 @@
 ---
-title: Manuscript Title
+title: A simple method for automating neuron counts in vitro
 keywords:
 - markdown
 - publishing
@@ -7,18 +7,17 @@ keywords:
 lang: en-US
 date-meta: '2021-09-10'
 author-meta:
-- John Doe
-- Jane Roe
+- Samuel Burke
 header-includes: |-
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
   Suggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html
   -->
   <meta name="dc.format" content="text/html" />
-  <meta name="dc.title" content="Manuscript Title" />
-  <meta name="citation_title" content="Manuscript Title" />
-  <meta property="og:title" content="Manuscript Title" />
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta name="dc.title" content="A simple method for automating neuron counts in vitro" />
+  <meta name="citation_title" content="A simple method for automating neuron counts in vitro" />
+  <meta property="og:title" content="A simple method for automating neuron counts in vitro" />
+  <meta property="twitter:title" content="A simple method for automating neuron counts in vitro" />
   <meta name="dc.date" content="2021-09-10" />
   <meta name="citation_publication_date" content="2021-09-10" />
   <meta name="dc.language" content="en-US" />
@@ -27,23 +26,19 @@ header-includes: |-
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="John Doe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-  <meta name="twitter:creator" content="@johndoe" />
-  <meta name="citation_author" content="Jane Roe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+  <meta name="citation_author" content="Samuel Burke" />
+  <meta name="citation_author_institution" content="Department of Neuroscience, Univerisité de Montréal" />
+  <meta name="citation_author_orcid" content="0000-0002-7363-5133" />
+  <meta name="twitter:creator" content="@kernow_qc" />
   <link rel="canonical" href="https://samuelorion.github.io/methods_paper/" />
   <meta property="og:url" content="https://samuelorion.github.io/methods_paper/" />
   <meta property="twitter:url" content="https://samuelorion.github.io/methods_paper/" />
   <meta name="citation_fulltext_html_url" content="https://samuelorion.github.io/methods_paper/" />
   <meta name="citation_pdf_url" content="https://samuelorion.github.io/methods_paper/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://samuelorion.github.io/methods_paper/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://samuelorion.github.io/methods_paper/v/d2ca9953a443537288a4eb4f8707847b6fe39336/" />
-  <meta name="manubot_html_url_versioned" content="https://samuelorion.github.io/methods_paper/v/d2ca9953a443537288a4eb4f8707847b6fe39336/" />
-  <meta name="manubot_pdf_url_versioned" content="https://samuelorion.github.io/methods_paper/v/d2ca9953a443537288a4eb4f8707847b6fe39336/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://samuelorion.github.io/methods_paper/v/1568a1792dcb9f9ff39359f3de290e3bcf5bd65c/" />
+  <meta name="manubot_html_url_versioned" content="https://samuelorion.github.io/methods_paper/v/1568a1792dcb9f9ff39359f3de290e3bcf5bd65c/" />
+  <meta name="manubot_pdf_url_versioned" content="https://samuelorion.github.io/methods_paper/v/1568a1792dcb9f9ff39359f3de290e3bcf5bd65c/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +60,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://samuelorion.github.io/methods_paper/v/d2ca9953a443537288a4eb4f8707847b6fe39336/))
+([permalink](https://samuelorion.github.io/methods_paper/v/1568a1792dcb9f9ff39359f3de290e3bcf5bd65c/))
 was automatically generated
-from [samuelorion/methods_paper@d2ca995](https://github.com/samuelorion/methods_paper/tree/d2ca9953a443537288a4eb4f8707847b6fe39336)
+from [samuelorion/methods_paper@1568a17](https://github.com/samuelorion/methods_paper/tree/1568a1792dcb9f9ff39359f3de290e3bcf5bd65c)
 on September 10, 2021.
 </em></small>
 
@@ -75,25 +70,16 @@ on September 10, 2021.
 
 
 
-+ **John Doe**<br>
++ **Samuel Burke**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    [0000-0002-7363-5133](https://orcid.org/0000-0002-7363-5133)
     · ![GitHub icon](images/github.svg){.inline_icon}
-    [johndoe](https://github.com/johndoe)
+    [samuelorion](https://github.com/samuelorion)
     · ![Twitter icon](images/twitter.svg){.inline_icon}
-    [johndoe](https://twitter.com/johndoe)<br>
+    [kernow_qc](https://twitter.com/kernow_qc)<br>
   <small>
-     Department of Something, University of Whatever
-     · Funded by Grant XXXXXXXX
-  </small>
-
-+ **Jane Roe**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon}
-    [janeroe](https://github.com/janeroe)<br>
-  <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
+     Department of Neuroscience, Univerisité de Montréal
+     · Funded by FRQS
   </small>
 
 
