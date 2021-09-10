@@ -36,9 +36,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://samuelorion.github.io/methods_paper/" />
   <meta name="citation_pdf_url" content="https://samuelorion.github.io/methods_paper/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://samuelorion.github.io/methods_paper/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://samuelorion.github.io/methods_paper/v/1568a1792dcb9f9ff39359f3de290e3bcf5bd65c/" />
-  <meta name="manubot_html_url_versioned" content="https://samuelorion.github.io/methods_paper/v/1568a1792dcb9f9ff39359f3de290e3bcf5bd65c/" />
-  <meta name="manubot_pdf_url_versioned" content="https://samuelorion.github.io/methods_paper/v/1568a1792dcb9f9ff39359f3de290e3bcf5bd65c/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://samuelorion.github.io/methods_paper/v/dd6d8e9661f4b8661d9eb900a1fd912f47e30e02/" />
+  <meta name="manubot_html_url_versioned" content="https://samuelorion.github.io/methods_paper/v/dd6d8e9661f4b8661d9eb900a1fd912f47e30e02/" />
+  <meta name="manubot_pdf_url_versioned" content="https://samuelorion.github.io/methods_paper/v/dd6d8e9661f4b8661d9eb900a1fd912f47e30e02/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -60,9 +60,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://samuelorion.github.io/methods_paper/v/1568a1792dcb9f9ff39359f3de290e3bcf5bd65c/))
+([permalink](https://samuelorion.github.io/methods_paper/v/dd6d8e9661f4b8661d9eb900a1fd912f47e30e02/))
 was automatically generated
-from [samuelorion/methods_paper@1568a17](https://github.com/samuelorion/methods_paper/tree/1568a1792dcb9f9ff39359f3de290e3bcf5bd65c)
+from [samuelorion/methods_paper@dd6d8e9](https://github.com/samuelorion/methods_paper/tree/dd6d8e9661f4b8661d9eb900a1fd912f47e30e02)
 on September 10, 2021.
 </em></small>
 
