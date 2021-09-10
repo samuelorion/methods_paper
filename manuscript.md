@@ -36,9 +36,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://samuelorion.github.io/methods_paper/" />
   <meta name="citation_pdf_url" content="https://samuelorion.github.io/methods_paper/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://samuelorion.github.io/methods_paper/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://samuelorion.github.io/methods_paper/v/418cb28ac35f46c086824001054a2f8f2c1140de/" />
-  <meta name="manubot_html_url_versioned" content="https://samuelorion.github.io/methods_paper/v/418cb28ac35f46c086824001054a2f8f2c1140de/" />
-  <meta name="manubot_pdf_url_versioned" content="https://samuelorion.github.io/methods_paper/v/418cb28ac35f46c086824001054a2f8f2c1140de/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://samuelorion.github.io/methods_paper/v/12b5e2f7dbfbbddbe6996e5edfbeaeda3f08c843/" />
+  <meta name="manubot_html_url_versioned" content="https://samuelorion.github.io/methods_paper/v/12b5e2f7dbfbbddbe6996e5edfbeaeda3f08c843/" />
+  <meta name="manubot_pdf_url_versioned" content="https://samuelorion.github.io/methods_paper/v/12b5e2f7dbfbbddbe6996e5edfbeaeda3f08c843/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -60,9 +60,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://samuelorion.github.io/methods_paper/v/418cb28ac35f46c086824001054a2f8f2c1140de/))
+([permalink](https://samuelorion.github.io/methods_paper/v/12b5e2f7dbfbbddbe6996e5edfbeaeda3f08c843/))
 was automatically generated
-from [samuelorion/methods_paper@418cb28](https://github.com/samuelorion/methods_paper/tree/418cb28ac35f46c086824001054a2f8f2c1140de)
+from [samuelorion/methods_paper@12b5e2f](https://github.com/samuelorion/methods_paper/tree/12b5e2f7dbfbbddbe6996e5edfbeaeda3f08c843)
 on September 10, 2021.
 </em></small>
 
@@ -90,8 +90,9 @@ on September 10, 2021.
 
 
 ## Introduction
-The quantification of cell numbers in *in vitro* and *in vivo* samples is a foundational variable in experimental biology.  However, manually counting cells is a massively laborious and insipid task, often tasked to junior scientists. 
-However, manually counting cells is a massively laborious and insipid task, often tasked to junior scientists. Classically, the task will be achieved by either sitting at the microscope, or computer – with a counting-clicker (or equivalent) – for days, if not weeks, or months.
+The quantification of cell numbers in *in vitro* and *in vivo* samples is a foundational variable in experimental biology.
+However, manually counting cells is a massively laborious and insipid task, often tasked to junior scientists. 
+Furthermore, manually counting cells is a massively laborious and insipid task, often tasked to junior scientists. Classically, the task will be achieved by either sitting at the microscope, or computer – with a counting-clicker (or equivalent) – for days, if not weeks, or months.
 With the advent of user-friendly automated imaging systems, relatively high throughput experiments can be imaged for cell number quantification by most wet-lab scientists.
 With relatively little computational nous, most biologists can use software such as ImageJ [@doi:10.1038/nmeth.2089], CellProfiller [@doi:10.1371/journal.pbio.2005970](and other similar projects) to achieve accurate quantifications of cells that have simple morphological features (such as stained nuclei). 
 However, for neurons – and especially projecting neurons – this becomes a significant challenge. Not only do these types of cells have more complex morphologies, but these types of cells have received less attention from software developers / computerphiles (for the lack of a better term). 
