@@ -14,7 +14,11 @@ A simple – yet robust – method to automatically(ish) count neurons in primar
 
 Currently, under construction, and translation. 
 
-## Manubot
+This manuscript has been written in manubot. Learn more below. 
+
+<details>
+<summary> Manubot </summary>
+<br>
 
 <!-- usage note: do not edit this section -->
 
@@ -70,3 +74,4 @@ All other files are only available under CC BY 4.0, including:
 + `*.docx`
 
 Please open [an issue](https://github.com/samuelorion/methods_paper/issues) for any question related to licensing.
+</details>
