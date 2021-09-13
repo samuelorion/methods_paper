@@ -5,7 +5,7 @@ keywords:
 - publishing
 - manubot
 lang: en-US
-date-meta: '2021-09-10'
+date-meta: '2021-09-13'
 author-meta:
 - Samuel Burke
 header-includes: |-
@@ -18,8 +18,8 @@ header-includes: |-
   <meta name="citation_title" content="A simple method for automating neuron counts in vitro" />
   <meta property="og:title" content="A simple method for automating neuron counts in vitro" />
   <meta property="twitter:title" content="A simple method for automating neuron counts in vitro" />
-  <meta name="dc.date" content="2021-09-10" />
-  <meta name="citation_publication_date" content="2021-09-10" />
+  <meta name="dc.date" content="2021-09-13" />
+  <meta name="citation_publication_date" content="2021-09-13" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -36,9 +36,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://samuelorion.github.io/methods_paper/" />
   <meta name="citation_pdf_url" content="https://samuelorion.github.io/methods_paper/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://samuelorion.github.io/methods_paper/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://samuelorion.github.io/methods_paper/v/650ad297530eb87148c0d466f25be4d15676eb5c/" />
-  <meta name="manubot_html_url_versioned" content="https://samuelorion.github.io/methods_paper/v/650ad297530eb87148c0d466f25be4d15676eb5c/" />
-  <meta name="manubot_pdf_url_versioned" content="https://samuelorion.github.io/methods_paper/v/650ad297530eb87148c0d466f25be4d15676eb5c/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://samuelorion.github.io/methods_paper/v/b3552f7fa842adff4d67e5ba7c2b0be4aeb640b1/" />
+  <meta name="manubot_html_url_versioned" content="https://samuelorion.github.io/methods_paper/v/b3552f7fa842adff4d67e5ba7c2b0be4aeb640b1/" />
+  <meta name="manubot_pdf_url_versioned" content="https://samuelorion.github.io/methods_paper/v/b3552f7fa842adff4d67e5ba7c2b0be4aeb640b1/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -60,10 +60,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://samuelorion.github.io/methods_paper/v/650ad297530eb87148c0d466f25be4d15676eb5c/))
+([permalink](https://samuelorion.github.io/methods_paper/v/b3552f7fa842adff4d67e5ba7c2b0be4aeb640b1/))
 was automatically generated
-from [samuelorion/methods_paper@650ad29](https://github.com/samuelorion/methods_paper/tree/650ad297530eb87148c0d466f25be4d15676eb5c)
-on September 10, 2021.
+from [samuelorion/methods_paper@b3552f7](https://github.com/samuelorion/methods_paper/tree/b3552f7fa842adff4d67e5ba7c2b0be4aeb640b1)
+on September 13, 2021.
 </em></small>
 
 ## Authors
