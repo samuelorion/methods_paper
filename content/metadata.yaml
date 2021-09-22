@@ -16,3 +16,12 @@ authors:
       - Department of Neuroscience, Univerisité de Montréal
     funders:
       - FRQS
+  - github: solvabl
+    name: Alex Tchung
+    initials: AT
+    orcid: 0000-0001-7000-7046
+    email: alex.tchung@umontreal.ca
+    affiliations:
+      - Department of Pharmacology and Physiology, Univerisité de Montréal
+    funders:
+  
