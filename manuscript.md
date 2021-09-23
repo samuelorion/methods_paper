@@ -32,7 +32,7 @@ header-includes: |-
   <meta name="citation_author_orcid" content="0000-0002-7363-5133" />
   <meta name="twitter:creator" content="@kernow_qc" />
   <meta name="citation_author" content="Alex Tchung" />
-  <meta name="citation_author_institution" content="Department of Pharmacology and Physiology, Univerisité de Montréal" />
+  <meta name="citation_author_institution" content="Department of Pharmacology and Physiology, Université de Montréal" />
   <meta name="citation_author_orcid" content="0000-0001-7000-7046" />
   <link rel="canonical" href="https://samuelorion.github.io/methods_paper/" />
   <meta property="og:url" content="https://samuelorion.github.io/methods_paper/" />
@@ -40,9 +40,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://samuelorion.github.io/methods_paper/" />
   <meta name="citation_pdf_url" content="https://samuelorion.github.io/methods_paper/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://samuelorion.github.io/methods_paper/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://samuelorion.github.io/methods_paper/v/ac491bead8edecb7e49ec77c7d6484f1dcd2a401/" />
-  <meta name="manubot_html_url_versioned" content="https://samuelorion.github.io/methods_paper/v/ac491bead8edecb7e49ec77c7d6484f1dcd2a401/" />
-  <meta name="manubot_pdf_url_versioned" content="https://samuelorion.github.io/methods_paper/v/ac491bead8edecb7e49ec77c7d6484f1dcd2a401/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://samuelorion.github.io/methods_paper/v/c031978c2259d0b880d83a8e70e00094c4a70cb9/" />
+  <meta name="manubot_html_url_versioned" content="https://samuelorion.github.io/methods_paper/v/c031978c2259d0b880d83a8e70e00094c4a70cb9/" />
+  <meta name="manubot_pdf_url_versioned" content="https://samuelorion.github.io/methods_paper/v/c031978c2259d0b880d83a8e70e00094c4a70cb9/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -64,9 +64,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://samuelorion.github.io/methods_paper/v/ac491bead8edecb7e49ec77c7d6484f1dcd2a401/))
+([permalink](https://samuelorion.github.io/methods_paper/v/c031978c2259d0b880d83a8e70e00094c4a70cb9/))
 was automatically generated
-from [samuelorion/methods_paper@ac491be](https://github.com/samuelorion/methods_paper/tree/ac491bead8edecb7e49ec77c7d6484f1dcd2a401)
+from [samuelorion/methods_paper@c031978](https://github.com/samuelorion/methods_paper/tree/c031978c2259d0b880d83a8e70e00094c4a70cb9)
 on September 23, 2021.
 </em></small>
 
@@ -92,7 +92,7 @@ on September 23, 2021.
     · ![GitHub icon](images/github.svg){.inline_icon}
     [solvabl](https://github.com/solvabl)<br>
   <small>
-     Department of Pharmacology and Physiology, Univerisité de Montréal
+     Department of Pharmacology and Physiology, Université de Montréal
      · Funded by CRSNG, Brain Canada & Krembil Foundations
   </small>
 
