@@ -5,9 +5,10 @@ keywords:
 - publishing
 - manubot
 lang: en-US
-date-meta: '2021-09-13'
+date-meta: '2021-09-23'
 author-meta:
 - Samuel Burke
+- Alex Tchung
 header-includes: |-
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
@@ -18,8 +19,8 @@ header-includes: |-
   <meta name="citation_title" content="A simple method for automating neuron counts in vitro" />
   <meta property="og:title" content="A simple method for automating neuron counts in vitro" />
   <meta property="twitter:title" content="A simple method for automating neuron counts in vitro" />
-  <meta name="dc.date" content="2021-09-13" />
-  <meta name="citation_publication_date" content="2021-09-13" />
+  <meta name="dc.date" content="2021-09-23" />
+  <meta name="citation_publication_date" content="2021-09-23" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -30,15 +31,18 @@ header-includes: |-
   <meta name="citation_author_institution" content="Department of Neuroscience, Univerisité de Montréal" />
   <meta name="citation_author_orcid" content="0000-0002-7363-5133" />
   <meta name="twitter:creator" content="@kernow_qc" />
+  <meta name="citation_author" content="Alex Tchung" />
+  <meta name="citation_author_institution" content="Department of Pharmacology and Physiology, Univerisité de Montréal" />
+  <meta name="citation_author_orcid" content="0000-0001-7000-7046" />
   <link rel="canonical" href="https://samuelorion.github.io/methods_paper/" />
   <meta property="og:url" content="https://samuelorion.github.io/methods_paper/" />
   <meta property="twitter:url" content="https://samuelorion.github.io/methods_paper/" />
   <meta name="citation_fulltext_html_url" content="https://samuelorion.github.io/methods_paper/" />
   <meta name="citation_pdf_url" content="https://samuelorion.github.io/methods_paper/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://samuelorion.github.io/methods_paper/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://samuelorion.github.io/methods_paper/v/d591e96081c4dba02e40a3b11937ce1266c27b8e/" />
-  <meta name="manubot_html_url_versioned" content="https://samuelorion.github.io/methods_paper/v/d591e96081c4dba02e40a3b11937ce1266c27b8e/" />
-  <meta name="manubot_pdf_url_versioned" content="https://samuelorion.github.io/methods_paper/v/d591e96081c4dba02e40a3b11937ce1266c27b8e/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://samuelorion.github.io/methods_paper/v/ac491bead8edecb7e49ec77c7d6484f1dcd2a401/" />
+  <meta name="manubot_html_url_versioned" content="https://samuelorion.github.io/methods_paper/v/ac491bead8edecb7e49ec77c7d6484f1dcd2a401/" />
+  <meta name="manubot_pdf_url_versioned" content="https://samuelorion.github.io/methods_paper/v/ac491bead8edecb7e49ec77c7d6484f1dcd2a401/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -60,10 +64,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://samuelorion.github.io/methods_paper/v/d591e96081c4dba02e40a3b11937ce1266c27b8e/))
+([permalink](https://samuelorion.github.io/methods_paper/v/ac491bead8edecb7e49ec77c7d6484f1dcd2a401/))
 was automatically generated
-from [samuelorion/methods_paper@d591e96](https://github.com/samuelorion/methods_paper/tree/d591e96081c4dba02e40a3b11937ce1266c27b8e)
-on September 13, 2021.
+from [samuelorion/methods_paper@ac491be](https://github.com/samuelorion/methods_paper/tree/ac491bead8edecb7e49ec77c7d6484f1dcd2a401)
+on September 23, 2021.
 </em></small>
 
 ## Authors
@@ -80,6 +84,16 @@ on September 13, 2021.
   <small>
      Department of Neuroscience, Univerisité de Montréal
      · Funded by FRQS
+  </small>
+
++ **Alex Tchung**<br>
+    ![ORCID icon](images/orcid.svg){.inline_icon}
+    [0000-0001-7000-7046](https://orcid.org/0000-0001-7000-7046)
+    · ![GitHub icon](images/github.svg){.inline_icon}
+    [solvabl](https://github.com/solvabl)<br>
+  <small>
+     Department of Pharmacology and Physiology, Univerisité de Montréal
+     · Funded by CRSNG, Brain Canada & Krembil Foundations
   </small>
 
 
