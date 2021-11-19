@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/samuelorion/methods_paper/tree/gh-pages) branch hosts the contents of this directory at <https://samuelorion.github.io/methods_paper/>.
-The permalink for this webpage version is <https://samuelorion.github.io/methods_paper/v/9b4e4615f1c48a4b8bd4f85cdde640758f7758c2/>.
+The permalink for this webpage version is <https://samuelorion.github.io/methods_paper/v/29c1d9e0eea604f8e861c15b5debecb12a902b19/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://samuelorion.github.io/methods_paper/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`9b4e4615f1c48a4b8bd4f85cdde640758f7758c2`](https://github.com/samuelorion/methods_paper/commit/9b4e4615f1c48a4b8bd4f85cdde640758f7758c2).
+[`29c1d9e0eea604f8e861c15b5debecb12a902b19`](https://github.com/samuelorion/methods_paper/commit/29c1d9e0eea604f8e861c15b5debecb12a902b19).
