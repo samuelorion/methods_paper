@@ -40,9 +40,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://samuelorion.github.io/methods_paper/" />
   <meta name="citation_pdf_url" content="https://samuelorion.github.io/methods_paper/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://samuelorion.github.io/methods_paper/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://samuelorion.github.io/methods_paper/v/9b4e4615f1c48a4b8bd4f85cdde640758f7758c2/" />
-  <meta name="manubot_html_url_versioned" content="https://samuelorion.github.io/methods_paper/v/9b4e4615f1c48a4b8bd4f85cdde640758f7758c2/" />
-  <meta name="manubot_pdf_url_versioned" content="https://samuelorion.github.io/methods_paper/v/9b4e4615f1c48a4b8bd4f85cdde640758f7758c2/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://samuelorion.github.io/methods_paper/v/29c1d9e0eea604f8e861c15b5debecb12a902b19/" />
+  <meta name="manubot_html_url_versioned" content="https://samuelorion.github.io/methods_paper/v/29c1d9e0eea604f8e861c15b5debecb12a902b19/" />
+  <meta name="manubot_pdf_url_versioned" content="https://samuelorion.github.io/methods_paper/v/29c1d9e0eea604f8e861c15b5debecb12a902b19/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -64,9 +64,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://samuelorion.github.io/methods_paper/v/9b4e4615f1c48a4b8bd4f85cdde640758f7758c2/))
+([permalink](https://samuelorion.github.io/methods_paper/v/29c1d9e0eea604f8e861c15b5debecb12a902b19/))
 was automatically generated
-from [samuelorion/methods_paper@9b4e461](https://github.com/samuelorion/methods_paper/tree/9b4e4615f1c48a4b8bd4f85cdde640758f7758c2)
+from [samuelorion/methods_paper@29c1d9e](https://github.com/samuelorion/methods_paper/tree/29c1d9e0eea604f8e861c15b5debecb12a902b19)
 on November 19, 2021.
 </em></small>
 
@@ -133,7 +133,7 @@ In addition, using these formats for the sharing of methods may help instil a cu
 
 ## list of pubs for meta-analysis
 
-[@PMID: 10435500]
+[@PMID:10435500]
 
 
 ## References {.page_break_before}
