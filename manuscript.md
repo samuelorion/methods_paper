@@ -5,7 +5,7 @@ keywords:
 - publishing
 - manubot
 lang: en-US
-date-meta: '2021-09-23'
+date-meta: '2021-11-19'
 author-meta:
 - Samuel Burke
 - Alex Tchung
@@ -19,8 +19,8 @@ header-includes: |-
   <meta name="citation_title" content="A simple method for automating neuron counts in vitro" />
   <meta property="og:title" content="A simple method for automating neuron counts in vitro" />
   <meta property="twitter:title" content="A simple method for automating neuron counts in vitro" />
-  <meta name="dc.date" content="2021-09-23" />
-  <meta name="citation_publication_date" content="2021-09-23" />
+  <meta name="dc.date" content="2021-11-19" />
+  <meta name="citation_publication_date" content="2021-11-19" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -40,9 +40,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://samuelorion.github.io/methods_paper/" />
   <meta name="citation_pdf_url" content="https://samuelorion.github.io/methods_paper/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://samuelorion.github.io/methods_paper/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://samuelorion.github.io/methods_paper/v/c031978c2259d0b880d83a8e70e00094c4a70cb9/" />
-  <meta name="manubot_html_url_versioned" content="https://samuelorion.github.io/methods_paper/v/c031978c2259d0b880d83a8e70e00094c4a70cb9/" />
-  <meta name="manubot_pdf_url_versioned" content="https://samuelorion.github.io/methods_paper/v/c031978c2259d0b880d83a8e70e00094c4a70cb9/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://samuelorion.github.io/methods_paper/v/9b4e4615f1c48a4b8bd4f85cdde640758f7758c2/" />
+  <meta name="manubot_html_url_versioned" content="https://samuelorion.github.io/methods_paper/v/9b4e4615f1c48a4b8bd4f85cdde640758f7758c2/" />
+  <meta name="manubot_pdf_url_versioned" content="https://samuelorion.github.io/methods_paper/v/9b4e4615f1c48a4b8bd4f85cdde640758f7758c2/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -64,10 +64,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://samuelorion.github.io/methods_paper/v/c031978c2259d0b880d83a8e70e00094c4a70cb9/))
+([permalink](https://samuelorion.github.io/methods_paper/v/9b4e4615f1c48a4b8bd4f85cdde640758f7758c2/))
 was automatically generated
-from [samuelorion/methods_paper@c031978](https://github.com/samuelorion/methods_paper/tree/c031978c2259d0b880d83a8e70e00094c4a70cb9)
-on September 23, 2021.
+from [samuelorion/methods_paper@9b4e461](https://github.com/samuelorion/methods_paper/tree/9b4e4615f1c48a4b8bd4f85cdde640758f7758c2)
+on November 19, 2021.
 </em></small>
 
 ## Authors
@@ -129,6 +129,11 @@ Many of these more advanced methods lack a substantial pedagogical component.
 To implement many of the methods – which a junior scientists will likely find themselves doing on multiple occasions for their own use-case – specific domain expertise is required in the computational realm (this is especially significant when one considers that most biologists / neuroscientists will be unfamiliar (as was this author) of the simple term iterator [@{https://en.wikipedia.org/w/index.php?title=Iterator&oldid=1022023119}]. 
 One solution is for these methods and protocols to be contained within notebook interfaces such as Project Jupyter [@{https://www.jupyter.org}]. Not only can documentation be included with examples, but the methods can also be executed within a browser, and in systems where there is zero configuration required. 
 In addition, using these formats for the sharing of methods may help instil a culture of open documentation and analysis. In this work we describe unground-breaking, simple to use and apply methods, that allow wet-lab biologist / neuroscientists to quantify the number of projecting neurons cultured in multi-well plates. 
+
+
+## list of pubs for meta-analysis
+
+[@PMID: 10435500]
 
 
 ## References {.page_break_before}
